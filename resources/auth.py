@@ -1,7 +1,8 @@
 import os
 import base64
 import requests
-from flask import redirect
+import json
+from flask import redirect, session
 from flask_restful import Resource
 from urllib.parse import urlencode
 from flask_restful import reqparse
@@ -22,17 +23,26 @@ class SpotifyAuth(Resource):
         if args["code"]:
             # we have the Authorization code!
             post_auth_spotify_token_url = 'https://accounts.spotify.com/api/token'
+            auth_str = self.client_id+':'+self.client_secret
+            b64_auth_str = base64.b64encode(auth_str.encode('ascii'))
             body_dict = {
                 "grant_type": "authorization_code",
                 "code": args["code"],
                 "redirect_uri": self.redirect_uri
-            },
+            }
             header_dict = {
                 # Base 64 encoded client_id:client_secret
-                "Authorization": base64.encode(self.client_id+':'+self.client_secret)
+                "Content-Type": "application/x-www-form-urlencoded",
+                "Authorization": "Basic "+b64_auth_str.decode('ascii')
             }
             # Send a POST request to url to get the access token
             res = requests.post(url=post_auth_spotify_token_url,data=body_dict, headers=header_dict)
+            res_dict = json.loads(res.content)
+            print(res_dict["access_token"])
+            session["sp_token"] = res_dict["access_token"]
+            session["refresh_token"] = res_dict["refresh_token"]
+            print(session.get('sp_token'))
+
             return "Success"
         elif args["error"]:
             # something happened getting the Auth code :(
