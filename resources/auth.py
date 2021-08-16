@@ -38,6 +38,8 @@ class SpotifyAuth(Resource):
             res_dict = json.loads(res.content)
             session["sp_token"] = res_dict["access_token"]
             session["refresh_token"] = res_dict["refresh_token"]
+            # TODO save the access and refresh into a database rather than a session. Also save the time and expiration date.
+            # could use Redis... 
             return "Success"
 
         elif args["error"]:
