@@ -1,6 +1,8 @@
 import os
-from flask import Flask, request
-from flask_restful import Resource, Api
+import redis
+from flask import Flask 
+from flask_restful import Api
+from flask_session import Session
 
 from resources.auth import SpotifyAuth
 from resources.home import Home
@@ -11,8 +13,15 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = 'randomkeyidentifier'
+
+# Configure redis for storing data:
+app.secret_key = os.environ.get('SPOTIPY_REDIS_KEY')
+app.config['SESSION_TYPE'] = 'redis'
+app.config['SESSION_PERMANENT'] = 'False'
+app.config['SESSION_USE_SIGNER'] = 'True'
+app.config['SESSION_REDIS'] = redis.from_url('redis://127.0.0.1:6379')
 api = Api(app)
+session_server = Session(app)
 
 api.add_resource(Home, '/')
 api.add_resource(SpotifyAuth, '/auth')
