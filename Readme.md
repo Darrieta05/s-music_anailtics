@@ -4,6 +4,10 @@ This app will gather information about your playlists to enhance your listening 
 
 It will also allow me to learn more about python and the Flask framework.
 
+# To Run the app
+1. Start redis server
+2. Run app.py on terminal.
+
 
 # Objectives:
 
@@ -24,4 +28,5 @@ It will also allow me to learn more about python and the Flask framework.
 - Flask
 - Docker
 - Mongo
+- Redis
 
