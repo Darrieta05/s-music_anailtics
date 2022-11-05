@@ -6,7 +6,8 @@ class Sess(Resource):
         # print out all the session data available
         print(session.get("sp_token", "no token saved"))
         json_to_see = {
+            "sp_access_token": session.get("sp_access_token"),
             "session_token": session.get("sp_token"),
             "user_id": session.get("user_id"),
         }
-        return 
+        return json_to_see

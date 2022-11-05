@@ -11,6 +11,7 @@ from resources.home import Home
 from resources.callback import Auth_Callback
 from resources.user import User
 from resources.playlist import Playlist
+from resources.session_data import Sess
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -33,6 +34,7 @@ api.add_resource(SpotifyAuth, '/auth')
 api.add_resource(Auth_Callback, '/auth/callback')
 api.add_resource(User, '/user')
 api.add_resource(Playlist, '/playlist')
+api.add_resource(Sess, '/session')
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    app.run(debug=True, host="0.0.0.0", port=5000)

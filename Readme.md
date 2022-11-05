@@ -8,6 +8,8 @@ It will also allow me to learn more about python and the Flask framework.
 1. Start redis server
 2. Run app.py on terminal.
 
+Make sure to have the correct environment setup in vscode or in the terminal. We are using a virtualenv called s-music-analitics or something like that.
+
 
 # Objectives:
 
