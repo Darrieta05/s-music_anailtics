@@ -8,9 +8,10 @@ import redis
 
 from resources.auth import SpotifyAuth
 from resources.home import Home
-from resources.callback import Auth_Callback
 from resources.user import User
+from resources.all_playlists import Playlists
 from resources.playlist import Playlist
+from resources.song import Song
 from resources.session_data import Sess
 
 from dotenv import load_dotenv
@@ -31,9 +32,10 @@ session_server = Session(api.app)
 
 api.add_resource(Home, '/')
 api.add_resource(SpotifyAuth, '/auth')
-api.add_resource(Auth_Callback, '/auth/callback')
 api.add_resource(User, '/user')
-api.add_resource(Playlist, '/playlist')
+api.add_resource(Playlists, '/playlists')
+api.add_resource(Playlist, '/playlist/<playlist_id>')
+api.add_resource(Song, '/song/<id>')
 api.add_resource(Sess, '/session')
 
 if __name__ == '__main__':

@@ -1,3 +1,4 @@
+import logging
 import os
 import base64
 from pprint import pprint
@@ -19,10 +20,10 @@ class SpotifyAuth(Resource):
         if "code" in request.args:
             return self.auth_from_spotify()
         elif session.get("sp_access_token"):
-            return "Session is open and ready!"
+            return redirect('/user')
         else:
-            print('Log: user will ask for code now, redirecting to spotify page!')
-            # Let's get the Auth code from Spotify:
+            # send user to Spotify
+            logging.info("New user, sending to spotify")
             dict_attr = {
                 "client_id": self.client_id,
                 "response_type": "code",

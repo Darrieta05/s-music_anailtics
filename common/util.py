@@ -9,17 +9,19 @@ client_id = os.environ.get('SPOTIPY_CLIENT_ID')
 client_secret = os.environ.get('SPOTIPY_CLIENT_SECRET')
 redirect_uri = os.environ.get('SPOTIPY_REDIRECT_URI')
 
+# define constants
+sp_access_token = "sp_access_token" # Session key for access token
+
 class AuthClientError(RuntimeError):
     def __init__(self, *args: object) -> None:
         super().__init__(*args)
 
 def Get_token():
     """checks if the username has a valid token or returns a valid token"""
-    if session.get("sp_access_token"):
-        return session.get("sp_access_token")
+    if session.get(sp_access_token):
+        return session.get(sp_access_token)
 
 def refresh_token():
-    """post request to get the new refresh token"""
     url = "https://accounts.spotify.com/api/token"
     req_body_dict = {
         "grant_type": "refresh_token",
@@ -44,7 +46,7 @@ def renew_access_token(func):
 
 def validate_session(func):
     def wrapper(*args, **kwargs):
-        token = session.get("sp_access_token")
+        token = session.get(sp_access_token)
         if token:
             return func(*args, **kwargs)
         else:
