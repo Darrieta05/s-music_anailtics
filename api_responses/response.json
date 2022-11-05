@@ -1,0 +1,800 @@
+{
+    "href": "https://api.spotify.com/v1/users/arrietowski/playlists?offset=0&limit=20",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "Good morning music to wake up happy and start your day right! We\u2019ve put together the perfect playlist of upbeat pop classics and positive songs to carry your stress away and start with a smile - Playlist Cover: Picture \u00a9 Free",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3IBrsav3Sh8AImtaGoaP07"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3IBrsav3Sh8AImtaGoaP07",
+            "id": "3IBrsav3Sh8AImtaGoaP07",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbcccc520dba9c72571a6a43ff",
+                    "width": null
+                }
+            ],
+            "name": "Good Mornings - Happily Positive Music to Start The Day",
+            "owner": {
+                "display_name": "Extra Music",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/2k995mbzd5f9ui49qh23xp2tr"
+                },
+                "href": "https://api.spotify.com/v1/users/2k995mbzd5f9ui49qh23xp2tr",
+                "id": "2k995mbzd5f9ui49qh23xp2tr",
+                "type": "user",
+                "uri": "spotify:user:2k995mbzd5f9ui49qh23xp2tr"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NjQ2NixjNTUxYzUwZjkxYzFiZTUyY2I3NDQxNTJiNWIxOWViMDJmYTAyYzE5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3IBrsav3Sh8AImtaGoaP07/tracks",
+                "total": 1138
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3IBrsav3Sh8AImtaGoaP07"
+        },
+        {
+            "collaborative": false,
+            "description": "\u00bfTe suena?",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7jeRdACAcJz"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7jeRdACAcJz",
+            "id": "37i9dQZF1DX7jeRdACAcJz",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f00000003695322bd39a644cc6e5e8263",
+                    "width": null
+                }
+            ],
+            "name": "Sampleados",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYzNzI5MDg2MCwwMDAwMDAwMDYyNjIyZjQ1MmQ5MmY3OWVlOTAxYjE4ZTE4MjQxMWUx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7jeRdACAcJz/tracks",
+                "total": 52
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DX7jeRdACAcJz"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3I5TaCmJmwiSbAWYUldPF6"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3I5TaCmJmwiSbAWYUldPF6",
+            "id": "3I5TaCmJmwiSbAWYUldPF6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ca647a9d7b5588a479fa6bcd",
+                    "width": 640
+                }
+            ],
+            "name": "It's not fair",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSwxNTExZTIzMjJmMjA2YWU4MDkwYmJmZTMzYTEwYWU1ZDFjYjk2NjM5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3I5TaCmJmwiSbAWYUldPF6/tracks",
+                "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3I5TaCmJmwiSbAWYUldPF6"
+        },
+        {
+            "collaborative": false,
+            "description": "Di si, me fui de jupa",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2VPuR0UnXf506EosBD8QnS"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2VPuR0UnXf506EosBD8QnS",
+            "id": "2VPuR0UnXf506EosBD8QnS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2731f5a61ca13f18ac48efcd1aeab67616d0000b27329035ea37892b23fa78beafeab67616d0000b2733645b4fbcb4e6e6c804e02e6ab67616d0000b273bc3bf94adf874815867bcbb6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2731f5a61ca13f18ac48efcd1aeab67616d0000b27329035ea37892b23fa78beafeab67616d0000b2733645b4fbcb4e6e6c804e02e6ab67616d0000b273bc3bf94adf874815867bcbb6",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2731f5a61ca13f18ac48efcd1aeab67616d0000b27329035ea37892b23fa78beafeab67616d0000b2733645b4fbcb4e6e6c804e02e6ab67616d0000b273bc3bf94adf874815867bcbb6",
+                    "width": 60
+                }
+            ],
+            "name": "Amor caecus est",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Nyw5ZGZiMzI5N2QyOTNlZmY4Y2YwYTYzYjQ0MWNkYmE2N2JhZDNjMGI5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2VPuR0UnXf506EosBD8QnS/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2VPuR0UnXf506EosBD8QnS"
+        },
+        {
+            "collaborative": false,
+            "description": "Always come in 1st.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWpHR8v2FGW4"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWpHR8v2FGW4",
+            "id": "37i9dQZF1DWWpHR8v2FGW4",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f00000003397488602c3e451510fbb0a0",
+                    "width": null
+                }
+            ],
+            "name": "Nitroboost",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTY1OTM2MjA2MiwwMDAwMDAwMDYxMjE4MTNlMmYzNWJhMzZiY2Y2NDYzMmViMmZkNjg3",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWpHR8v2FGW4/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DWWpHR8v2FGW4"
+        },
+        {
+            "collaborative": false,
+            "description": "A la salsa llegu\u00e9 de sorpresa, nunca sal\u00ed.  Usted es quien decide si toma ese riesgo o no.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4DLu4fijfbyeLqlLnei928"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4DLu4fijfbyeLqlLnei928",
+            "id": "4DLu4fijfbyeLqlLnei928",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273373f51cd425bd2594e8f0c6bab67616d0000b27346af53fdcde6b85968d6ec90ab67616d0000b27389f8ecfee9b45ec613e123cdab67616d0000b27399b8e1d204b0aa0404a8b566",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273373f51cd425bd2594e8f0c6bab67616d0000b27346af53fdcde6b85968d6ec90ab67616d0000b27389f8ecfee9b45ec613e123cdab67616d0000b27399b8e1d204b0aa0404a8b566",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273373f51cd425bd2594e8f0c6bab67616d0000b27346af53fdcde6b85968d6ec90ab67616d0000b27389f8ecfee9b45ec613e123cdab67616d0000b27399b8e1d204b0aa0404a8b566",
+                    "width": 60
+                }
+            ],
+            "name": "Sal si puedes...",
+            "owner": {
+                "display_name": "Sara Sof\u00eda",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/cempas%C3%BAchil"
+                },
+                "href": "https://api.spotify.com/v1/users/cempas%C3%BAchil",
+                "id": "cempas\u00fachil",
+                "type": "user",
+                "uri": "spotify:user:cempas%C3%BAchil"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NTMsN2E1MGNlNjY5N2U5NGMwYjRkZDE0MDYyY2I0MDg2YjNmOTMyMTdjNA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4DLu4fijfbyeLqlLnei928/tracks",
+                "total": 40
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4DLu4fijfbyeLqlLnei928"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4Xcz7NdvxayzjvKfK1KbbY"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4Xcz7NdvxayzjvKfK1KbbY",
+            "id": "4Xcz7NdvxayzjvKfK1KbbY",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbd06c6cc733bf13a949af70fc",
+                    "width": null
+                }
+            ],
+            "name": "it ain't real",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTcsZjFiZjM5ZjAwNzk0NzcyZmQyMDY2N2UwZmM1YmFkODY2MWY2YjgxNg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4Xcz7NdvxayzjvKfK1KbbY/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4Xcz7NdvxayzjvKfK1KbbY"
+        },
+        {
+            "collaborative": false,
+            "description": "Spotify Wrapped presents the songs that you loved most this year.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EUMDoJuT8yJsl",
+            "id": "37i9dQZF1EUMDoJuT8yJsl",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://lineup-images.scdn.co/wrapped-2021-top100_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2021",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MCwwMDAwMDAwMGQwNjAyODJlNGFjNTY4ZWM4N2QxNDYwODY5ZGMwYmUy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EUMDoJuT8yJsl/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1EUMDoJuT8yJsl"
+        },
+        {
+            "collaborative": false,
+            "description": "Los lanzamientos latinos m\u00e1s destacados. En portada: Rosal\u00eda",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8O2z77nfMgH",
+            "id": "37i9dQZF1DX8O2z77nfMgH",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f00000003e7378506b2bd462b4a8f8e47",
+                    "width": null
+                }
+            ],
+            "name": "Novedades Viernes Latinoam\u00e9rica",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTY1OTExNjcxMSwwMDAwMDAwMGZkNmE3MDA0Y2U1NWNiZjRiMTI0Yjk3Mjk3ZjkyMTlj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8O2z77nfMgH/tracks",
+                "total": 70
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DX8O2z77nfMgH"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4YUXk2jVDYasHdJe7py1Wk"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4YUXk2jVDYasHdJe7py1Wk",
+            "id": "4YUXk2jVDYasHdJe7py1Wk",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebba147e977141275d807375d6c",
+                    "width": null
+                }
+            ],
+            "name": "Tardeando Ando",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTAsOWFkNWNmYTI3OWNmOTc3ZDg4YTMwMjQ0YmM0YWQ3ZTJiZDQ0ZDc3Yg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4YUXk2jVDYasHdJe7py1Wk/tracks",
+                "total": 46
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4YUXk2jVDYasHdJe7py1Wk"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5F3pTCI0web4GYUJ9SuPVH"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5F3pTCI0web4GYUJ9SuPVH",
+            "id": "5F3pTCI0web4GYUJ9SuPVH",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb3bb829430f9a7e24927ca07e",
+                    "width": null
+                }
+            ],
+            "name": "Car show \ud83d\udc46",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTQ2LGY0YmYzNmM4Mjg2NDRmMTUwNmFlY2E2OTQ0MDQyMTNjNGVlODVhMzI=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5F3pTCI0web4GYUJ9SuPVH/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5F3pTCI0web4GYUJ9SuPVH"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5n8FRXfH5W5zxZSXd92E5O"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5n8FRXfH5W5zxZSXd92E5O",
+            "id": "5n8FRXfH5W5zxZSXd92E5O",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2736c9552498616be1b98f754f7ab67616d0000b273a4d73b32e40487605c73cffeab67616d0000b273a51e234cef7a6c520b72a8f8ab67616d0000b273f77cce79bf033cc73f9c5b7d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2736c9552498616be1b98f754f7ab67616d0000b273a4d73b32e40487605c73cffeab67616d0000b273a51e234cef7a6c520b72a8f8ab67616d0000b273f77cce79bf033cc73f9c5b7d",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2736c9552498616be1b98f754f7ab67616d0000b273a4d73b32e40487605c73cffeab67616d0000b273a51e234cef7a6c520b72a8f8ab67616d0000b273f77cce79bf033cc73f9c5b7d",
+                    "width": 60
+                }
+            ],
+            "name": "nuevoBajo",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NjEsYWVmMWM3NzlkNjE0NGIyOGUzNDQ3NzYzNjgwYzg2OTg2ZmRjYzMwMg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5n8FRXfH5W5zxZSXd92E5O/tracks",
+                "total": 59
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5n8FRXfH5W5zxZSXd92E5O"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/01bnroYf4PHCDIeFKvj3Nl"
+            },
+            "href": "https://api.spotify.com/v1/playlists/01bnroYf4PHCDIeFKvj3Nl",
+            "id": "01bnroYf4PHCDIeFKvj3Nl",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb23be5363fb387bcf3e891c36",
+                    "width": null
+                }
+            ],
+            "name": "TON",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTcyLDMxYjFhMzY4ODI4NDI2OTlhMzVhZWQ3ZDU2ZTcwODM3N2ZkNmI2OTQ=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/01bnroYf4PHCDIeFKvj3Nl/tracks",
+                "total": 183
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:01bnroYf4PHCDIeFKvj3Nl"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3k6hNHZGuHsyA4aH71mdgE"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3k6hNHZGuHsyA4aH71mdgE",
+            "id": "3k6hNHZGuHsyA4aH71mdgE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2731f6ea0296db6e7075814adbfab67616d0000b27355a33a9d4af303dec1769342ab67616d0000b27363a037a07268281251138608ab67616d0000b2736733c2fb4db75b794820ed43",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2731f6ea0296db6e7075814adbfab67616d0000b27355a33a9d4af303dec1769342ab67616d0000b27363a037a07268281251138608ab67616d0000b2736733c2fb4db75b794820ed43",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2731f6ea0296db6e7075814adbfab67616d0000b27355a33a9d4af303dec1769342ab67616d0000b27363a037a07268281251138608ab67616d0000b2736733c2fb4db75b794820ed43",
+                    "width": 60
+                }
+            ],
+            "name": "Mombaaaa \ud83d\udd25",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTcsMmVlOTJjODJhYWJiOTEzMWQ3ZDc5OTY5MmQ2MTVmMzY2NDlkNWUwMQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3k6hNHZGuHsyA4aH71mdgE/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3k6hNHZGuHsyA4aH71mdgE"
+        },
+        {
+            "collaborative": false,
+            "description": "#Dancehall #Crack @Towski",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2EfwFcsbY5msAHTLsIbzKW"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2EfwFcsbY5msAHTLsIbzKW",
+            "id": "2EfwFcsbY5msAHTLsIbzKW",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb578abdc232cbc0cd5a19cc3c",
+                    "width": null
+                }
+            ],
+            "name": "HALL",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzA2LDkyYjQzM2FlZmE3YTk5YzhlYWY0YzI5ZjQxZmRhZGRjMWNjNTRhY2M=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2EfwFcsbY5msAHTLsIbzKW/tracks",
+                "total": 170
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2EfwFcsbY5msAHTLsIbzKW"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6KR7tSia1fLNqLqotrSIJT"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6KR7tSia1fLNqLqotrSIJT",
+            "id": "6KR7tSia1fLNqLqotrSIJT",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb7bdf6c1ef752e210e6787858",
+                    "width": null
+                }
+            ],
+            "name": "RETRO Ridin",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjYsNGYwYmIxYzcwMTg4MTE4NTFhNDU4OTE2ZTAwNGIxNmUxZTE0MDVmOA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6KR7tSia1fLNqLqotrSIJT/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6KR7tSia1fLNqLqotrSIJT"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/180DG3yWkhPCzNPKAUhG1g"
+            },
+            "href": "https://api.spotify.com/v1/playlists/180DG3yWkhPCzNPKAUhG1g",
+            "id": "180DG3yWkhPCzNPKAUhG1g",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2732bc58e4de7c41e84aeacee40ab67616d0000b273370c12f82872c9cfaee80193ab67616d0000b27363a28c5ecb7b13e9b329fe47ab67616d0000b2739e1cfc756886ac782e363d79",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2732bc58e4de7c41e84aeacee40ab67616d0000b273370c12f82872c9cfaee80193ab67616d0000b27363a28c5ecb7b13e9b329fe47ab67616d0000b2739e1cfc756886ac782e363d79",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2732bc58e4de7c41e84aeacee40ab67616d0000b273370c12f82872c9cfaee80193ab67616d0000b27363a28c5ecb7b13e9b329fe47ab67616d0000b2739e1cfc756886ac782e363d79",
+                    "width": 60
+                }
+            ],
+            "name": "No Ordinary",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NzYsZTYwMTI1MWQyZjcxODE0ZDliMWI0MTQ5NGE3ZDRmMjQ4ODY4MjllNg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/180DG3yWkhPCzNPKAUhG1g/tracks",
+                "total": 67
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:180DG3yWkhPCzNPKAUhG1g"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5FYPYKXQSrG0HpqzaWjb0q"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5FYPYKXQSrG0HpqzaWjb0q",
+            "id": "5FYPYKXQSrG0HpqzaWjb0q",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2739998ac9b4e4347044cb7c1a1ab67616d0000b273ac8e6d7dae57f0c1c87e230cab67616d0000b273d619b8baab0619516bb53804ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2739998ac9b4e4347044cb7c1a1ab67616d0000b273ac8e6d7dae57f0c1c87e230cab67616d0000b273d619b8baab0619516bb53804ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2739998ac9b4e4347044cb7c1a1ab67616d0000b273ac8e6d7dae57f0c1c87e230cab67616d0000b273d619b8baab0619516bb53804ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
+                    "width": 60
+                }
+            ],
+            "name": "Coronando",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Niw3NTIyNDM1MTMyMTBlYWY5YTRjYzBhZjI3NzgyYjc1ZmQxOTQwNDYx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5FYPYKXQSrG0HpqzaWjb0q/tracks",
+                "total": 5
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5FYPYKXQSrG0HpqzaWjb0q"
+        },
+        {
+            "collaborative": false,
+            "description": "Dark and moody progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6GJXiuZRisr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6GJXiuZRisr",
+            "id": "37i9dQZF1DX6GJXiuZRisr",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f0000000309eec532a1a213bc950dff71",
+                    "width": null
+                }
+            ],
+            "name": "Night Rider",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGRjYzQwYjk2ZjNhNjI0MmJkMjEzNjg3YjBkMGFhNTBi",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6GJXiuZRisr/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DX6GJXiuZRisr"
+        },
+        {
+            "collaborative": false,
+            "description": "just play and forget. ",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3m1ljhnW899SEUW3L8EkAc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3m1ljhnW899SEUW3L8EkAc",
+            "id": "3m1ljhnW899SEUW3L8EkAc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2735511dcb6464170ec0607251aab67616d0000b273a03fd4a15d3418b66ce2e859ab67616d0000b273bce3e0a0c87aaeafea02b9deab67616d0000b273c1773b2e4721a1f21ad75320",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2735511dcb6464170ec0607251aab67616d0000b273a03fd4a15d3418b66ce2e859ab67616d0000b273bce3e0a0c87aaeafea02b9deab67616d0000b273c1773b2e4721a1f21ad75320",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2735511dcb6464170ec0607251aab67616d0000b273a03fd4a15d3418b66ce2e859ab67616d0000b273bce3e0a0c87aaeafea02b9deab67616d0000b273c1773b2e4721a1f21ad75320",
+                    "width": 60
+                }
+            ],
+            "name": "HOUSE",
+            "owner": {
+                "display_name": "Daniel Arrieta",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/arrietowski"
+                },
+                "href": "https://api.spotify.com/v1/users/arrietowski",
+                "id": "arrietowski",
+                "type": "user",
+                "uri": "spotify:user:arrietowski"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTIsZTUxZjAyYWEyYjNkMjYyOTU3OWZiMGZmMTExYmRkM2IwMDdiMzVmMA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3m1ljhnW899SEUW3L8EkAc/tracks",
+                "total": 41
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3m1ljhnW899SEUW3L8EkAc"
+        }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/users/arrietowski/playlists?offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 63
+}
